@@ -1,4 +1,15 @@
-# 
+# Python REPL Calculator 
+
+This is an interactive Python calculator program. You can launch the program by running `python3 main.py` on the commandline and in the project directory. 
+
+The program expects an arithmetic operation and two numbers to perform the operation on. It will return an error if you try to divide by zero. Here's what the syntax looks like: 
+
+`add 4 5` 
+`subtract 8 4`
+`multiply 4 5`
+`divide 10 2` 
+
+Below is the set up for modifying the program on your own system. 
 
 
 # 📦 Project Setup
